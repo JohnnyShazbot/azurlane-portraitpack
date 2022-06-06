@@ -2,7 +2,7 @@
 	#if you are going to use github as the masterVersionfile please use the raw text
     "masterVersionFile":"https://raw.githubusercontent.com/JohnnyShazbot/azurlane-portraitpack/main/bigfatazurlaneportraitpack.version",
     "modName":"Big Fat Azur Lane Portrait Pack",
-    "modThreadId":,
+    "modThreadId":24715,
     "modVersion":
     {
         "major":1,
